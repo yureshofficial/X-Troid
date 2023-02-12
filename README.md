@@ -1,16 +1,14 @@
-<h1 align="center">ꪶQUEEN-Xꫂ<br></h1>
-<p align="center">
-<img src="https://pps.whatsapp.net/v/t61.24694-24/321181181_168858575856725_862666054410577068_n.jpg?ccb=11-4&oh=01_AdT066V_4JbuGq_E5Pdrf03hnVMDxto71BqS_aThh9WLGw&oe=63E1CB9F" alt="animated" width="540" height="280" />
-</p>
+<h1 align="center">🦹‍♀️ QUEEN-X 🦹‍♀️<br></h1>
+<p align="center"><img src="https://telegra.ph/file/e4c0e7eb7441a534e735e.jpg" alt="animated" /></p>
 
 
 # Setup For Deployment 👇
 
 ## `Scan QR Code For Session`
-https://replit.com/@yureshkav/QUEEN-X-QR-CODE
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@yureshkav/QUEEN-X-QR-CODE)
 
 ## `Qr 2`
-https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@yureshkav/QUEEN-X-QR-CODE?output%20only=1&lite=1#index.js)
 
 අර Qr එකෙන් ස්කැන් කරන්න අමාරු අයට👆
 
