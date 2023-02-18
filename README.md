@@ -12,7 +12,11 @@
 
   <p align="center">
 <a href="https://chat.whatsapp.com/E0k0MVvZRGJ9KODXcTZufk"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
-
+****
+<p align="center">
+  <a href="https://github.com/xneon2/Hashzi-X">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+----
 # Setup For Deployment 👇
 
 ***
