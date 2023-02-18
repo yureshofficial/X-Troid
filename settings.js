@@ -22,13 +22,13 @@ global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-
-global.session = "YXF5RWYwZ0I=" //session Id 
+//ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
+global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
 global.ownernomer = "94719225807" //ur number
 global.premium = ['94719225807'] //ur premium number
-global.botname = '94719225807' //ur bot name
-global.linkz = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //ur website to be displayed
+global.botname = 'QUEEN -X' //ur bot name
+global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
 global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
@@ -42,18 +42,18 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: '*👸🏻💭Here you go!*',
-    admin: '*👸🏻💭This feature could be used by admins only!*',
-    botAdmin: '*👸🏻💭Bot Must Be Admin First!*',
-    premime: '*👸🏻💭Premium Special Features If You Want to Register Type Rent*',
-    owner: '*👸🏻💭This feature could be used by owner only*',
-    group: '*👸🏻💭Features Used Only For Groups!*',
-    private: '*👸🏻💭Features Used Only For Private Chat!*',
-    bot: '*👸🏻💭This feature could be used by bot only*',
-    wait: '*👸🏻💭Please wait...*',
-    linkm: '*👸🏻💭Where is the link?*',
-    endLimit: '*👸🏻💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
-    nsfw: '*👸🏻💭The nsfw feature has not been activated, please contact the admin to activate*',
+    success: '*💭Here you go!*',
+    admin: '*💭This feature could be used by admins only!*',
+    botAdmin: '*💭Bot Must Be Admin First!*',
+    premime: '*💭Premium Special Features If You Want to Register Type Rent*',
+    owner: '*💭This feature could be used by owner only*',
+    group: '*💭Features Used Only For Groups!*',
+    private: '*💭Features Used Only For Private Chat!*',
+    bot: '*💭This feature could be used by bot only*',
+    wait: '*💭Please wait...*',
+    linkm: '*💭Where is the link?*',
+    endLimit: '*💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
+    nsfw: '*💭The nsfw feature has not been activated, please contact the admin to activate*',
 }
 
 //media target
