@@ -11,7 +11,7 @@
 <p align="center"><img src="https://telegra.ph/file/3b403e1d0943bceda8133.jpg" alt="animated" /></p>
 
   <p align="center">
-<a href="https://chat.whatsapp.com/E0k0MVvZRGJ9KODXcTZufk"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/E0k0MVvZRGJ9KODXcTZufk"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-WHATSAPP GROUP-/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
   
 
 ***
