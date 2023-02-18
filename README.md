@@ -16,11 +16,11 @@
   <a href="https://github.com/xneon2/Hashzi-X/fork">
     <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
     
+
   </a>
   <a href="https://github.com/xneon2/Hashzi-X/stargazers">
     <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
   </a>
-# Setup For Deployment 👇
 
 ***
 scan  QR Code 🆔
