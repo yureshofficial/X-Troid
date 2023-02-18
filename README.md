@@ -15,9 +15,10 @@
   </a>
   <a href="https://github.com/xneon2/Hashzi-X/fork">
     <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
-      </a>
+      
+</a>
 </p>
-  <a href="https://github.com/xneon2/Hashzi-X/stargazers">
+  <a href="https://github.com/yureshofficial/Queen-X">
     <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
   </a>
 
