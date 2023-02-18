@@ -12,10 +12,7 @@
 
   <p align="center">
 <a href="https://chat.whatsapp.com/E0k0MVvZRGJ9KODXcTZufk"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
-  </a>
-  <a href="https://github.com/xneon2/Hashzi-X/fork">
-    <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
-     
+  
 
 ***
 scan  QR Code 🆔
