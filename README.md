@@ -19,7 +19,7 @@
 </a>
 </p>
   <a href="https://github.com/yureshofficial/Queen-X">
-    <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
+    <img src="https://img.shields.io/github/stars/yureshofficial/Queen-X?style=social">
   </a>
 
 ***
