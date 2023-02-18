@@ -22,3 +22,14 @@ scan  QR Code 🆔
 [![Deploy on Koyeb](https://telegra.ph/file/48228bbb836479f7a2863.png)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 
 [![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
+
+
+
+
+
+
+<br >
+ 
+<div align="center">
+
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://queen-x-qr.yureshofficial.repl.co/)
