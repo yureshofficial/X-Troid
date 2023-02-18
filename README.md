@@ -5,7 +5,7 @@
 # Setup For Deployment 👇
 
 ***
-> scan  QR Code ✏
+scan  QR Code 🆔
 <div align="left"><a href="https://queen-x-qr.yureshofficial.repl.co/"><img src="https://media.qrtiger.com/blog/2022/06/what-is-a-qr-code-and-how-does-it-work-the-beginner's-ultimate-guide-copyjpg_800.jpeg" width="150" ></a></div>
 
 ---
