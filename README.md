@@ -1,3 +1,10 @@
+</a>
+             
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME&font=Fira%20Code&center=true&width=380&height=50">
+
+</a>
+
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa06&center=true&vCenter=true&multiline=false&lines=QUEEN+-X+WHATSAPP+BOT" alt="">
 </p>
