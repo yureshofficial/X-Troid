@@ -9,10 +9,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa06&center=true&vCenter=true&multiline=false&lines=QUEEN+-X+WHATSAPP+BOT" alt="">
 </p>
 <p align="center"><img src="https://telegra.ph/file/3b403e1d0943bceda8133.jpg" alt="animated" /></p>
-***
-        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
----
+
 
 # Setup For Deployment 👇
 
