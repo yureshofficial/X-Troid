@@ -10,6 +10,8 @@
 </p>
 <p align="center"><img src="https://telegra.ph/file/3b403e1d0943bceda8133.jpg" alt="animated" /></p>
 
+  <p align="center">
+<a href="https://t.me/Bot_x_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
 
 # Setup For Deployment 👇
 
