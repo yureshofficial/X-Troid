@@ -1,5 +1,5 @@
 <h1 align="center">🦹‍♀️ QUEEN-X 🦹‍♀️<br></h1>
-<p align="center"><img src="https://telegra.ph/file/e4c0e7eb7441a534e735e.jpg" alt="animated" /></p>
+<p align="center"><img src="https://telegra.ph/file/3b403e1d0943bceda8133.jpg" alt="animated" /></p>
 
 
 # Setup For Deployment 👇
