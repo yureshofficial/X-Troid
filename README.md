@@ -4,8 +4,11 @@
 
 # Setup For Deployment 👇
 
-## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://queen-x-qr.yureshofficial.repl.co)
+***
+> scan  QR Code ✏
+<div align="left"><a href="https://queen-x-qr.yureshofficial.repl.co/"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
+
+---
 
 
 # DEPLOY👇
