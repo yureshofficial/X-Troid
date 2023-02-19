@@ -13,6 +13,9 @@
   <p align="center">
 <a href="https://chat.whatsapp.com/E0k0MVvZRGJ9KODXcTZufk"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-WHATSAPP GROUP-/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
   
+  <p align="center">
+<a href="https://chat.whatsapp.com/E0k0MVvZRGJ9KODXcTZufk"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-WHATSAPP GROUP-/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+  
 
 ***
 scan  QR Code 🆔
