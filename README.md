@@ -33,7 +33,7 @@ scan  QR Code 🆔
 
 [![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yureshofficial/Queen-X/)
 
 
 
