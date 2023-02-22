@@ -1,49 +1,23 @@
 {
-
-  "name": "QUEEN ELISA BOT 3.3.3 V",
-
+  "name": "QUEEN X🚀",
   "description": "whatsapp md bot build with nodejs",
-
   "repository": "https://github.com/yureshofficial/Queen-X",
-
-  "logo": "https://telegra.ph/file/30e4c947775ac2a0d2897.jpg",
-
-  "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
-
-  
-
+  "logo": "https://telegra.ph/file/3b403e1d0943bceda8133.jpg&name=900x900",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
-
     {
-
       "url": "heroku/nodejs"
-
     },
-
     {
-
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-
     },
-
     {
-
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-
     }
-
-  ],
-
-   "formation": {
-
-        "worker": {
-
-            "quantity": 1,
-
-            "size": "free"
-
-        }
-
-    }
-
+    ],
+     "addons": [
+		{
+                "plan": "heroku-postgresql"
+		}
+    ]
 }
