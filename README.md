@@ -1,6 +1,6 @@
 # Scan  QR Code 🆔
 
-<div align="left"><a href="https://queen-x-qr.yureshofficial.repl.co/"><img src="https://media.qrtiger.com/blog/2022/06/what-is-a-qr-code-and-how-does-it-work-the-beginner's-ultimate-guide-copyjpg_800.jpeg" width="150" ></a></div>
+<div align="left"><a href="https://x-troid-qr.yureshofficial.repl.co"><img src="https://media.qrtiger.com/blog/2022/06/what-is-a-qr-code-and-how-does-it-work-the-beginner's-ultimate-guide-copyjpg_800.jpeg" width="150" ></a></div>
 
 ---
 
@@ -24,4 +24,4 @@
  
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://x-troid-qr.yureshofficial.repl.co)
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)]
