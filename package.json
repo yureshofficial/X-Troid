@@ -1,5 +1,5 @@
 {
-  "name": "Queen-X",
+  "name": "X-Troid-Bot",
   "version": "6.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -15,9 +15,9 @@
     "bot",
     "bot-md",
     "multi-device",
-    "queen-x-bot-inc"
+    "x-troid-bot-inc"
   ],
-  "author": "Nimesh-official",
+  "author": "Yuresh-official",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
@@ -83,10 +83,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/yureshkav/Queen-X.git",
+  "repository": "git+https://github.com/yureshofficial/X-Troid.git",
   "bugs": {
-    "url": "https://github.com/yureshkav/Queen-X/issues"
+    "url": "https://github.com/yureshofficial/X-Troid/issues"
   },
-  "homepage": "https://github.com/yureshkav/Queen-X/#readme",
+  "homepage": "https://github.com/yureshofficial/X-Troid/#readme",
   "main": "index.js"
 }
