@@ -1,23 +1,5 @@
-</a>
-             
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME&font=Fira%20Code&center=true&width=380&height=50">
+# Scan  QR Code 🆔
 
-</a>
-
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa06&center=true&vCenter=true&multiline=false&lines=QUEEN+-X+WHATSAPP+BOT" alt="">
-</p>
-<p align="center"><img src="https://telegra.ph/file/3b403e1d0943bceda8133.jpg" alt="animated" /></p>
-
-  <p align="center">
-<a href="https://chat.whatsapp.com/E0k0MVvZRGJ9KODXcTZufk"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-WHATSAPP GROUP-/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
-  <p align="center">
-<a href="https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7"><img title="Author" src="https://img.shields.io/badge/BOT SUUPRT-WHATSAPP GROUP-/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
-  
-
-***
-scan  QR Code 🆔
 <div align="left"><a href="https://queen-x-qr.yureshofficial.repl.co/"><img src="https://media.qrtiger.com/blog/2022/06/what-is-a-qr-code-and-how-does-it-work-the-beginner's-ultimate-guide-copyjpg_800.jpeg" width="150" ></a></div>
 
 ---
