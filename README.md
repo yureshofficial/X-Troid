@@ -24,4 +24,4 @@
  
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://queen-x-qr.yureshofficial.repl.co/)
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://x-troid-qr.yureshofficial.repl.co)
