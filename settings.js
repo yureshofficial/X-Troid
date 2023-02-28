@@ -1,3 +1,4 @@
+
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -13,46 +14,26 @@ global.doc4 = 'application/zip'
 global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
-//𝗼𝘄𝗻𝗲𝗿 𝘃 𝗰𝗮𝗿𝗱 𝗽𝗵𝗼𝗻𝗲 𝗻𝘂𝗺𝗯𝗲𝗿
+//owmner v card
 global.owner = ['94719225807'] //ur owner number
+global.ownername = "X -TROID WH-BOT" //ur owner name
+global.ytname = "X -TROID WH-BOT" //ur yt chanel name
+global.socialm = "X -TROID WH-BOT" //ur github or insta name
+global.location = "India, Mizoram, Aizawl" //ur location
 
-//𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘👇🚀
-global.ownername = "Yuresh Kavindu" //ur owner name
-
-//𝗬𝗢𝗨𝗥 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗟𝗜𝗡𝗞🚀👇
-global.ytname = "𝗬𝗢𝗨 𝗟𝗜𝗡𝗞" //ur yt chanel name
-
-
-global.socialm = "X TROID" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kurunegala" //ur location
-
-//▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕
-//⛔𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 𝗖𝗢𝗥𝗗 𝗤𝗥👇 𝗣𝗟𝗘𝗦𝗘 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗🚀 𝗫 𝗧𝗥𝗢𝗜𝗗
-
-global.session = "OG1hOUx4ZUg=" //⛔⛔session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න.
-
-//𝗣𝗟𝗘𝗦𝗘 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗🚀 𝗫 𝗧𝗥𝗢𝗜𝗗  𝗣𝗟𝗘𝗦𝗘 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗🚀 𝗫 𝗧𝗥𝗢𝗜𝗗
-//▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕▕
-
-//𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠𝗕𝗘𝗥👇
+//bot bomdy 
+//ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
+global.session = "OG1hOUx4ZUg=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
 global.ownernomer = "94719225807" //ur number
 global.premium = ['94719225807'] //ur premium number
-
-//𝗕𝗢𝗧 𝗡𝗔𝗠𝗘👇
-global.botname = 'X TROID' //ur bot name
-
-//𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗪𝗘𝗕 𝗟𝗜𝗡𝗞👇
+global.botname = 'X -TROID WH-BOT' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
-global.botscript = 'https://github.com/yureshofficial/X-Troid' //script link
+global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-//𝗦𝗧𝗜𝗖𝗞𝗘𝗥 𝗡𝗔𝗠𝗘👇
-global.packname = "x -ᴛʀᴏɪᴅ" //ur sticker watermark packname
-global.author = "ᴜꜱᴇʀ ᴡʜ-ʙᴏᴛ" //ur sticker watermark author
-
-//𝗕𝗢𝗧 𝗡𝗔𝗠𝗘 👇
-global.wm = "x -ᴛʀᴏɪᴅ 
-ᴜꜱᴇʀ ᴡʜ-ʙᴏᴛ" //ur watermark
+global.packname = "X -TROID WH-BOT" //ur sticker watermark packname
+global.author = "X -TROID WH-BOT" //ur sticker watermark author
+global.wm = "X -TROID WH-BOT." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -76,10 +57,10 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("./XtroidGallery/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XtroidGallery/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XtroidGallery/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XtroidGallery/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
