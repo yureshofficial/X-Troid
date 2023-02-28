@@ -31,6 +31,10 @@ global.themeemoji = "🛸" //ur theme emoji
 global.packname = "X TROID" //ur sticker watermark packname
 global.author = "X TROID🏻" //ur sticker watermark author
 global.wm = "X TROID" //ur watermark
+
+//Edit Text bot📂🚀
+global.alive = "I AM ALIVE" //ur Alive mg type
+
 // Other
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
