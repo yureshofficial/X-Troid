@@ -57,9 +57,9 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
+global.thum = fs.readFileSync("./XtroidGallery/theme/cheemspic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XtroidGallery/theme/cheemspic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XtroidGallery/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //menu image maker
