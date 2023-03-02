@@ -17,9 +17,10 @@ global.ytname = "HELA CLOUD" //ur yt chanel name
 global.socialm = "X TROID" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kurunegala" //ur location
 
-//bot bomdy 
-//ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
+//bot bomdy __________________________________________________________________
+🚀✏✒//ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න✏✒
 global.session = "RVJ2aFlzODk=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
+//__________________________________________________________________
 global.session = "OG1hOUx4ZUg=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
 global.ownernomer = "94719225807" //ur number
 global.premium = ['94719225807'] //ur premium number
@@ -27,15 +28,15 @@ global.botname = 'X TROID' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
 global.botscript = 'https://github.com/yureshofficial/X-Troid' //script link
-global.themeemoji = "🛸" //ur theme emoji
+global.themeemoji = "🚀" //ur theme emoji
 global.packname = "X TROID" //ur sticker watermark packname
-global.author = "X TROID🏻" //ur sticker watermark author
-global.wm = "X TROID" //ur watermark
+global.author = "X TROID" //ur sticker watermark author
+global.wm = "X TROID MULTE DEVICE WHATSAPP BOT" //ur watermark
 
-//Edit Text bot📂🚀
+//Edit Text bot📂🚀__________________________________________________________________
 global.alive = "I am Alive🚀 " //ur Alive mg type
 
-//Welcome🚀 text type
+//Welcome🚀 text type__________________________________________________________________
 global.welcome = "Hello: @${xeonName.split("@")[0]}
 
 
