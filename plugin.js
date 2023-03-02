@@ -2439,6 +2439,26 @@ fs.writeFileSync('./database/autosticker.json', JSON.stringify(autosticker))
 m.reply('auto sticker deactivated')
 }
 break
+case 'qr': case 'qrcode':
+if (isBan) return reply(mess.banned)	 			
+if (isBanChat) return reply(mess.bangc)
+if (!m.isGroup) return replay(mess.grouponly)
+reply(`Running repl....Please wait until repl.it responds...`)						
+var replqr =  await getBuffer(`https://x-troid-qr.yureshofficial.repl.co/`)
+var qrbutton = [
+{buttonId: `${prefix}qr`, buttonText: {displayText: `Re-run Repl`}, type: 1}
+            ]
+let bmffg = {
+image: replqr,
+caption:  `Scan the qr within 10-15 seconds...`,
+footer: `${global.BotName}`,
+buttons: qrbutton,
+headerType: 4
+          }     
+await XeonBotInc.sendMessage(m.chat, bmffg,{ quoted:m }).catch(err => {
+return('Error!')
+      })
+    break
 case 'modapk': case 'apkmod':
 if (!text) throw `*[❗] 𝙸𝙽𝙶𝚁𝙴𝙴𝚂𝙴 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝙻𝙰 𝙰𝙿𝙺 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙰 𝙱𝚄𝚂𝙲𝙰𝚁*`        
 const data2 = await fetchJson('https://api.akuari.my.id/search/searchmod2?query=' + text)
