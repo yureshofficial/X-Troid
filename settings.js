@@ -18,9 +18,8 @@ global.socialm = "X TROID" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kurunegala" //ur location
 
 //bot bomdy __________________________________________________________________
-🚀✏✒//ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න✏✒
+//ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න✏✒
 global.session = "OG1hOUx4ZUg=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
-//__________________________________________________________________
 global.ownernomer = "94719225807" //ur number
 global.premium = ['94719225807'] //ur premium number
 global.botname = 'X TROID' //ur bot name
@@ -34,18 +33,6 @@ global.wm = "X TROID MULTE DEVICE WHATSAPP BOT" //ur watermark
 
 //Edit Text bot📂🚀__________________________________________________________________
 global.alive = "✏🏵️🎗️🎫🎟️🎪🎭🤹‍♂️🎨🎬🎤🎧🎼🎹🥁🪘🎯🎲♟️🎻🪕🎸🪗🎺🎷🎳🎮🎰🧩🔓🔒🔐🔏🔎🔍✏️📝🖍️🖌️✒️🖋️🖊️✂️📍📌🧮📏📐🖇️📎🔗🧷🔖📖📚📙📘📒📔📓📰🗞️🗂️📂📁📋🗄️🗳️🗃️📊📈📉🗒️🗑️📇🧾📑📜📯📮📭📫📪🪧📦💌📧🎎🧧🎁🛍️🎎🛎️🛠️🧲⛓️💰⚒️🔨⚙️🧰⚖️🪪💳🧯📡🔋🪫⏱️🎞️☎️⚖️💎🧸🎉🎎🖼️⚽🏀🏈" //ur Alive mg type
-
-//Welcome🚀 text type__________________________________________________________________
-global.welcome = "Hello: @${xeonName.split("@")[0]}
-
-
-┏━━━━━━━━━━━━━━━━━━━━
-┃  ❤️WELCOME TO THE GROUP❤️ 
-┗━━━━━━━━━━━━━━━━━━━━
-
-Group descrption📑
-
-${metadata.desc}" //ur Welcome mg type✒✏
 
 // Other
 global.sessionName = 'session'
