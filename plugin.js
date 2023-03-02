@@ -1915,7 +1915,7 @@ case 'happymod': {
  buttons: buttons,
  headerType: 4
  }
- A17.sendMessage(m.chat, buttonMessage, { quoted: m })
+ XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
  })
  }
  break
