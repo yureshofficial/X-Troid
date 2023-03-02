@@ -33,7 +33,19 @@ global.author = "X TROID🏻" //ur sticker watermark author
 global.wm = "X TROID" //ur watermark
 
 //Edit Text bot📂🚀
-global.alive = "I AM ALIVE" //ur Alive mg type
+global.alive = "I am Alive🚀 " //ur Alive mg type
+
+//Welcome🚀 text type
+global.welcome = "Hello: @${xeonName.split("@")[0]}
+
+
+┏━━━━━━━━━━━━━━━━━━━━
+┃  ❤️WELCOME TO THE GROUP❤️ 
+┗━━━━━━━━━━━━━━━━━━━━
+
+Group descrption📑
+
+${metadata.desc}" //ur Welcome mg type✒✏
 
 // Other
 global.sessionName = 'session'
@@ -41,18 +53,18 @@ global.prefa = ['','!','.','#','&']
 global.sp = ''
 //messages
 global.mess = {
-    success: '*💭Here you go!*',
-    admin: '*💭This feature could be used by admins only!*',
-    botAdmin: '*💭Bot Must Be Admin First!*',
-    premime: '*💭Premium Special Features If You Want to Register Type Rent*',
-    owner: '*💭This feature could be used by owner only*',
-    group: '*💭Features Used Only For Groups!*',
-    private: '*💭Features Used Only For Private Chat!*',
-    bot: '*💭This feature could be used by bot only*',
-    wait: '*💭Please wait...*',
-    linkm: '*💭Where is the link?*',
-    endLimit: '*💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
-    nsfw: '*💭The nsfw feature has not been activated, please contact the admin to activate*',
+    success: '*Here you go!*',
+    admin: '*This feature could be used by admins only!*',
+    botAdmin: '*Bot Must Be Admin First!*',
+    premime: '*Premium Special Features If You Want to Register Type Rent*',
+    owner: '*This feature could be used by owner only*',
+    group: '*Features Used Only For Groups!*',
+    private: '*Features Used Only For Private Chat!*',
+    bot: '*This feature could be used by bot only*',
+    wait: '*Please wait...*',
+    linkm: '*Where is the link?*',
+    endLimit: '*Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
+    nsfw: '*The nsfw feature has not been activated, please contact the admin to activate*',
 }
 //media target
 global.thum = fs.readFileSync("./XtroidGallery/theme/cheemspic.jpg") //ur thumb pic
