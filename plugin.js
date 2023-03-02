@@ -164,7 +164,7 @@ if (cek == null) return null
         const isPremium = premium.includes(m.sender)
         const Autoreply = m.isGroup ? autorep.includes(from) : false
         const AntiNsfw = m.isGroup ? ntnsfw.includes(from) : false
-        const isAutoSticker = m.isGroup ? autosticker.includes(from) : false
+        const isAutoSticker = m.isGroup ? autosticker.includes(from) : true
         const antiVirtex = m.isGroup ? ntvirtex.includes(from) : false
         const Antilinkgc = m.isGroup ? ntlinkgc.includes(m.chat) : false
         const AntiLinkYoutubeVid = m.isGroup ? ntilinkytvid.includes(from) : false
@@ -2318,26 +2318,6 @@ let teks = ` TAG ALL 🏷️
 		await XeonBotInc.groupParticipantsUpdate(m.chat, [users], 'demote').then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
 	}
 	break
-	    case 'qr': case 'qrcode':
-        if (isBan) return reply(mess.banned)	 			
-        if (isBanChat) return reply(mess.bangc)
-        if (!m.isGroup) return replay(mess.grouponly)
-    reply(`Running repl....Please wait until repl.it responds...`)						
-    var replqr =  await getBuffer(`https://x-troid-qr.yureshofficial.repl.co/`)
-                               var qrbutton = [
-            {buttonId: `${prefix}qr`, buttonText: {displayText: `Re-run Repl`}, type: 1}
-            ]
-          let bmffg = {
-           image: replqr,
-           caption:  `Scan the qr within 10-15 seconds...`,
-          footer: `${global.botName}`,
-          buttons: qrbutton,
-          headerType: 4
-          }     
-                await XeonBotInc.sendMessage(m.chat, bmffg,{ quoted:m }).catch(err => {
-                        return('Error!')
-                    })
-    break
 	 case 'setname': case 'setsubject': {
                 if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
