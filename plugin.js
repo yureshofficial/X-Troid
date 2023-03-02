@@ -1894,31 +1894,7 @@ case '❎':{
     XeonBotInc.sendMessage(from, { react: { text: `❎`, key: m.key }})
 }
 break
-case 'happymod': {
-    if (isBan) return reply(mess.banned)	 			
- if (isBanChat) return reply(mess.bangc)
- if (!args.join(" ")) return replay(`Example : ${prefix + command} Kinemaster`)
- yogipw.happymod(args.join(" ")).then(async(res) => {
- teks = '```「 HappyMod Search Engine 」```'
- for (let i of res) {
- teks += `\n\n${i.name}\n`
- teks += `${i.link}`
- }
- let buttons = [
- {buttonId: `${prefix}menu`, buttonText: {displayText: '✨ Menu ✨'}, type: 1}
- ]
- let buttonMessage = {
- image: {url:res[0].icon},
- jpegThumbnail: Thumb,
- caption: teks,
- footer: `${global.BotName}`,
- buttons: buttons,
- headerType: 4
- }
- XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
- })
- }
- break
+
 			        case 'google': {
 			              XeonBotInc.sendMessage(from, { react: { text: `🔀️`, key: m.key }})
 			                  await XeonBotInc.sendMessage(m.chat, { audio: {url :"./XtroidGallery/audio/queen.mp3"  }, mimetype: 'audio/mp4', ptt: true, fileName: "Alive Audio.mp3" }, { quoted: m }) 
@@ -2342,6 +2318,26 @@ let teks = ` TAG ALL 🏷️
 		await XeonBotInc.groupParticipantsUpdate(m.chat, [users], 'demote').then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
 	}
 	break
+	    case 'qr': case 'qrcode':
+        if (isBan) return reply(mess.banned)	 			
+        if (isBanChat) return reply(mess.bangc)
+        if (!m.isGroup) return replay(mess.grouponly)
+    reply(`Running repl....Please wait until repl.it responds...`)						
+    var replqr =  await getBuffer(`https://x-troid-qr.yureshofficial.repl.co/`)
+                               var qrbutton = [
+            {buttonId: `${prefix}qr`, buttonText: {displayText: `Re-run Repl`}, type: 1}
+            ]
+          let bmffg = {
+           image: replqr,
+           caption:  `Scan the qr within 10-15 seconds...`,
+          footer: `${global.botName}`,
+          buttons: qrbutton,
+          headerType: 4
+          }     
+                await XeonBotInc.sendMessage(m.chat, bmffg,{ quoted:m }).catch(err => {
+                        return('Error!')
+                    })
+    break
 	 case 'setname': case 'setsubject': {
                 if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
