@@ -34,7 +34,7 @@ global.author = "X TROID" //ur sticker watermark author
 global.wm = "X TROID MULTE DEVICE WHATSAPP BOT" //ur watermark
 
 //Edit Text bot📂🚀__________________________________________________________________
-global.alive = "I am Alive🚀 " //ur Alive mg type
+global.alive = "✏🏵️🎗️🎫🎟️🎪🎭🤹‍♂️🎨🎬🎤🎧🎼🎹🥁🪘🎯🎲♟️🎻🪕🎸🪗🎺🎷🎳🎮🎰🧩🔓🔒🔐🔏🔎🔍✏️📝🖍️🖌️✒️🖋️🖊️✂️📍📌🧮📏📐🖇️📎🔗🧷🔖📖📚📙📘📒📔📓📰🗞️🗂️📂📁📋🗄️🗳️🗃️📊📈📉🗒️🗑️📇🧾📑📜📯📮📭📫📪🪧📦💌📧🎎🧧🎁🛍️🎎🛎️🛠️🧲⛓️💰⚒️🔨⚙️🧰⚖️🪪💳🧯📡🔋🪫⏱️🎞️☎️⚖️💎🧸🎉🎎🖼️⚽🏀🏈" //ur Alive mg type
 
 //Welcome🚀 text type__________________________________________________________________
 global.welcome = "Hello: @${xeonName.split("@")[0]}
