@@ -166,7 +166,7 @@ XeonLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                xeonbody =  `\`\`\`Hi👋 Welcome @${xeonName.split("@")[0]}\`\`\`\n\n`
+                xeonbody =  `\`\`\`${global.welcome} \`\`\`\n\n`
 let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: 'WELCOME'}, type: 1}
 ]
@@ -198,9 +198,14 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    xeonbody =  `\`\`\`GOOD BYE👋 @${xeonName.split("@")[0]} \`\`\`\n\n`
+                    xeonbody =  `\`\`\`Hello: ${pushname}
+
+
+┏━━━━━━━━━━━━━━━━━━━━
+┃  ❤️GOODBYE TO THE GROUP❤️ 
+┗━━━━━━━━━━━━━━━━━━━━\`\`\`\n\n`
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 'BYE'}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText: 'BYE BRO'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XtroidGallery/theme/cheems.xlsx'),
