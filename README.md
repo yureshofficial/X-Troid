@@ -7,7 +7,27 @@
   
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
+**I Mostly Code in Python** 
 
+```text
+  Python                  12 repos             ███████████████░░░░░░░░░░   61.29% 
+  JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
+  HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+  CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+  Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+  Other                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+```
+ 
+<!--END_SECTION:waka-->
+---
+
+<div align="center">
+  
+
+# My currently working Languages and Tools 
+[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/DarkWinzo)
+
+ ---
 
 </p>
 <p align="center"><img src="https://telegra.ph/file/ee549ffd7465a963cdf48.jpg" alt="animated" /></p>
