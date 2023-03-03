@@ -1,3 +1,16 @@
+</a>
+             
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME&font=Fira%20Code&center=true&width=380&height=50">
+
+</a>
+
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa06&center=true&vCenter=true&multiline=false&lines=X+-TROID+WHATSAPP+BOT" alt="">
+</p>
+<p align="center"><img src="https://telegra.ph/file/3f59bfc9d67c65e275b99.jpg" alt="animated" /></p>
+
+
 # Scan  QR Code 🆔
 
 <div align="left"><a href="https://x-troid-qr.yureshofficial.repl.co"><img src="https://media.qrtiger.com/blog/2022/06/what-is-a-qr-code-and-how-does-it-work-the-beginner's-ultimate-guide-copyjpg_800.jpeg" width="150" ></a></div>
