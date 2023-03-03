@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa06&center=true&vCenter=true&multiline=false&lines=X+-TROID+WHATSAPP+BOT" alt="">
 </p>
-<p align="center"><img src="https://telegra.ph/file/3f59bfc9d67c65e275b99.jpg" alt="animated" /></p>
+<p align="center"><img src="https://telegra.ph/file/ee549ffd7465a963cdf48.jpg" alt="animated" /></p>
 
 
 # Scan  QR Code 🆔
