@@ -7,11 +7,6 @@
   
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
  
----
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=SRI+LANKA+THE+FIRST+WHATSAPP+BOT;Please+Respect+Us)](https://git.io/typing-svg)
-
 </p>
 <p align="center"><img src="https://telegra.ph/file/ee549ffd7465a963cdf48.jpg" alt="animated" /></p>
 
