@@ -1,9 +1,13 @@
-</a>
-             
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME&font=Fira%20Code&center=true&width=380&height=50">
-
-</a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+DarkWinzo;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+DarkWinzo;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+DarkWinzo;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+DarkWinzo;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+Yuresh;New+Beginning+Developer;WELCOME;X-TROID+WHATSAPP+BOT+RIPO" alt="Typing SVG" /></a></a>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa06&center=true&vCenter=true&multiline=false&lines=X+-TROID+WHATSAPP+BOT" alt="">
