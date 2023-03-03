@@ -6,7 +6,11 @@
 
   
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
- 
+
+
+   ```ශ්‍රි ලන්කාවෙ පලවෙනි වට්සැප් බොට් 
+X-TROID```
+
 </p>
 <p align="center"><img src="https://telegra.ph/file/ee549ffd7465a963cdf48.jpg" alt="animated" /></p>
 
