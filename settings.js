@@ -32,7 +32,7 @@ global.author = "X TROID" //ur sticker watermark author
 global.wm = "X TROID MULTE DEVICE WHATSAPP BOT" //ur watermark
 
 //Edit Text bot📂🚀__________________________________________________________________
-global.alive = "✏🏵️🎗️🎫🎟️🎪🎭🤹‍♂️🎨🎬🎤🎧🎼🎹🥁🪘🎯🎲♟️🎻🪕🎸🪗🎺🎷🎳🎮🎰🧩🔓🔒🔐🔏🔎🔍✏️📝🖍️🖌️✒️🖋️🖊️✂️📍📌🧮📏📐🖇️📎🔗🧷🔖📖📚📙📘📒📔📓📰🗞️🗂️📂📁📋🗄️🗳️🗃️📊📈📉🗒️🗑️📇🧾📑📜📯📮📭📫📪🪧📦💌📧🎎🧧🎁🛍️🎎🛎️🛠️🧲⛓️💰⚒️🔨⚙️🧰⚖️🪪💳🧯📡🔋🪫⏱️🎞️☎️⚖️💎🧸🎉🎎🖼️⚽🏀🏈" //ur Alive mg type
+global.alive = "YURESH" //ur Alive mg type
 
 // Other
 global.sessionName = 'session'
